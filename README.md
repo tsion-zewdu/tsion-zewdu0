@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Tsion Zewdu</h1>
 
-<h3 align="center">💻 4th Year Software Engineering Student at Bahir Dar University | ALX Software Engineering Learner | Backend & Full Stack Developer</h3>
+<h3 align="center">💻 4th Year Software Engineering Student at Bahir Dar University | ALX Backend Development Learner | Backend & Full Stack Developer</h3>
 
 ---
 
@@ -52,17 +52,17 @@ I’m particularly interested in working on <strong>healthcare systems, web plat
 
 | Project | Description | Tech Used |
 |----------|--------------|------------|
-| [🏥 Healthcare Appointment Management System](https://github.com/tsionzewdu/Healthcare-System)(https://sites.google.com/d/1z6P4DmylZMKeIMWUDF7JVqZ3fXqzOLwf/p/11sO3phPTzKNLbvTYX26WUsWCAbZS9hDY/edit) | A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
-| [📝 Django Blog App](https://github.com/tsionzewdu/Django-Blog) | A blog platform with image upload, comments, and Bootstrap styling | Python, Django, Bootstrap |
+| [🏥 Healthcare Appointment Management System](https://sites.google.com/view/tsionzewduzegeye/my-portfolio?authuser=0) <!--(https://github.com/tsionzewdu/Healthcare-System)-->| A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
+| [📝 Django Blog App]<!--(https://github.com/tsionzewdu/Django-Blog)--> | A blog platform with image upload, comments, and Bootstrap styling | Python, Django, Bootstrap |
 
 ---
 
 ###  Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tsion-zewdu/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.linkedin.com/in/tsion-zewdu-b3769633b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="mailto:tsionzewdu@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://github.com/tsionzewdu"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub Badge"/></a>
+  <a href="https://github.com/tsion-zewdu"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
 ---
