@@ -1,78 +1,71 @@
-<!-- 🌟 START OF GITHUB PROFILE README 🌟 -->
+<h1>Healthcare Appointment Management System</h1>
 
-<h1 align="center">👋 Hi, I'm Tsion Zewdu</h1>
+ 
 
-<h3 align="center">💻 4th Year Software Engineering Student at Bahir Dar University | ALX Backend Development Learner | Backend & Full Stack Developer</h3>
+<h2>Description</h2>
+The Healthcare Harmony: Appointment Management System is a standalone subcomponent that can be integrated into a larger Hospital Management System. Its primary goal is to digitize and streamline the appointment booking process, allowing patients to schedule consultations online from their homes or workplaces.
+<br />
+-Developed a secure, multi-user system for scheduling and managing medical appointments. 
+<br />
+-Implemented role-based login for Patients, Doctors, and Admins. 
+<br />
 
----
 
-###  About Me
+<h2>Languages and Utilities Used</h2>
 
-<p align="justify">
-I am a dedicated learner of the <strong>ALX Software Engineering Program</strong> and a fourth-year student at <strong>Bahir Dar University</strong>.  
-I’m currently revamping my GitHub profile to stand out in my job search and showcase my growth as a developer.  
+- <b>Java</b> 
+- <b>JDBC</b>
+- <b>Swing</b>
 
-My journey into software engineering began with a strong curiosity for how software systems work behind the scenes.  
-I’m passionate about <em>building reliable backend systems, designing full-stack applications, and creating solutions that make a real impact</em>.  
 
-I’m inspired by <em>innovation, teamwork, and the power of continuous learning</em> — the driving forces behind my commitment to becoming a professional developer who crafts high-quality, maintainable code.
-</p>
+<h2>Program walk-through:</h2>
 
----
-
-###  My Vision & Goals
-
-<p align="justify">
-My aim is to <strong>become a skilled backend and full-stack developer</strong> capable of building <strong>efficient, scalable, and user-centered applications</strong>.  
-That’s why I focus on <strong>writing clean code, learning modern frameworks, and collaborating on impactful projects</strong>.  
-
-I’m particularly interested in working on <strong>healthcare systems, web platforms, and data-driven applications</strong> that solve real-world problems and contribute to community growth.
-</p>
-
----
-
-###  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,django,html,css,javascript,mysql,react,nodejs,git,github,vscode,linux" />
+Home page: <br/>
+<img src="https://i.imgur.com/hn3srUQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sign in and Sign up:  <br/>
+<img src="https://i.imgur.com/ncuYaQn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Patient Dashboard: <br/>
+<img src="https://i.imgur.com/eCdfwl6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Doctor Dashboard:  <br/>
+<img src="https://i.imgur.com/yJNcf9h.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Admin Dashboard:  <br/>
+<img src="https://i.imgur.com/qNIs1n9.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
----
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
 
-<!--###  My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsionzewdu&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionzewdu&theme=radical" alt="GitHub Streak" height="150" />
-</p> -->
+<!--
+**tsion-zewdu/tsion-zewdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
----
+Here are some ideas to get you started:
 
-###  Featured Projects
-
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| [🏥 Healthcare Appointment Management System](https://sites.google.com/view/tsionzewduzegeye/my-portfolio?authuser=0) <!--(https://github.com/tsionzewdu/Healthcare-System)-->| A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
-| [📝 Django Blog App]<!--(https://github.com/tsionzewdu/Django-Blog)--> | A blog platform with image upload, comments, and Bootstrap styling | Python, Django, Bootstrap |
-
----
-
-###  Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tsion-zewdu-b3769633b/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:tsionzewdu@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://github.com/tsion-zewdu"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="GitHub Badge"/></a>
-</p>
-
----
-
-###  Fun Fact
-
-> “Code is like art — every line tells a story.”
-
----
-
- **“Learning, building, and growing — one commit at a time.”**  
-
-<!-- 🌟 END OF GITHUB PROFILE README 🌟 -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
