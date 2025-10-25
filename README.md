@@ -39,12 +39,12 @@ I’m particularly interested in working on <strong>healthcare systems, web plat
 
 ---
 
-###  My GitHub Stats
+<!--###  My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsionzewdu&show_icons=true&theme=radical" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsionzewdu&theme=radical" alt="GitHub Streak" height="150" />
-</p>
+</p> -->
 
 ---
 
@@ -52,7 +52,7 @@ I’m particularly interested in working on <strong>healthcare systems, web plat
 
 | Project | Description | Tech Used |
 |----------|--------------|------------|
-| [🏥 Healthcare Appointment Management System](https://github.com/tsionzewdu/Healthcare-System) | A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
+| [🏥 Healthcare Appointment Management System](https://github.com/tsionzewdu/Healthcare-System)(https://sites.google.com/d/1z6P4DmylZMKeIMWUDF7JVqZ3fXqzOLwf/p/11sO3phPTzKNLbvTYX26WUsWCAbZS9hDY/edit) | A full CRUD system for managing appointments, doctors, and patients | Java, JDBC, MySQL |
 | [📝 Django Blog App](https://github.com/tsionzewdu/Django-Blog) | A blog platform with image upload, comments, and Bootstrap styling | Python, Django, Bootstrap |
 
 ---
